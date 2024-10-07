@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Q&A ChatBot GPT2</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body> 
+    <h2>Ask a question:</h2>
+    <form method="POST">
+        <label for="question">Question:</label><br>
+        <input type="text" id="question" name="question"><br>
+        <input type="submit" value="Submit">
+    </form>
+    {% if answer %}
+        <h3>Answer:</h3>
+        <p>{{ answer }}</p>
+    {% endif %}
+</body>
+</html>

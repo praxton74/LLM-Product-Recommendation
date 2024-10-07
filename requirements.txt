@@ -1,0 +1,19 @@
+torch==2.1.2 
+tensorboard
+transformers>=4.36.2
+pandas
+numpy
+scikit-learn
+Pillow
+fastapi
+uvicorn
+openai==0.28
+datasets==2.16.1
+accelerate==0.26.1
+evaluate==0.4.1
+bitsandbytes==0.42.0
+trl
+peft
+ninja 
+packaging
+flash-attn --no-build-isolation
