@@ -1,15 +1,17 @@
-🦙 LLaMA Product Recommender 🛍️
+**🦙 LLaMA Product Recommender 🛍️**
+
 This project aims to develop a fine-tuned large language model (7B parameter-sharded LLaMA) capable of recommending products based on text prompts. By leveraging the power of LLMs and incorporating product and department information, this model provides personalized and relevant product suggestions to users.
 
 🌟 Key Features:
-🔄 Data Preprocessing:
+
+*🔄 Data Preprocessing:*
 Combines product and department data into a comprehensive dataset.
 
-🎯 Model Training:
+*🎯 Model Training:*
 Fine-tunes a pre-trained LLM (e.g., LLaMA-2) using PEFT (parameter-efficient fine-tuning) for optimal performance.
 
-💬 Text Generation:
+*💬 Text Generation:*
 Generates product recommendations based on user-provided text prompts.
 
-📊 Evaluation:
+*📊 Evaluation:*
 Assesses the model's performance using appropriate metrics to ensure accuracy and relevance.
