@@ -1,0 +1,1 @@
+This project aims to develop a fine-tuned large language model *(7B parameter-sharded LLaMA)* capable of recommending products based on given text prompts. By leveraging the power of LLMs and incorporating product and department information, this model can provide personalized and relevant product suggestions to users.
