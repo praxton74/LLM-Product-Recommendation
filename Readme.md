@@ -4,6 +4,9 @@ This project aims to develop a fine-tuned large language model *(7B parameter-sh
 **Key Features:**
 
 Data Preprocessing: Combines product and department data to create a comprehensive dataset.
+
 Model Training: Trains a pre-trained LLM (e.g., Llama-2) on the combined dataset using techniques like PEFT for efficient fine-tuning.
+
 Text Generation: Generates product recommendations based on user-provided text prompts.
+
 Evaluation: Assesses the model's performance using appropriate evaluation metrics.
