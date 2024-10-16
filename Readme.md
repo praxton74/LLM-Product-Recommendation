@@ -1,6 +1,6 @@
 **🦙 LLaMA Product Recommender 🛍️**
 
-This project aims to develop a fine-tuned large language model (7B parameter-sharded LLaMA) capable of recommending products based on text prompts. By leveraging the power of LLMs and incorporating product and department information, this model provides personalized and relevant product suggestions to users.
+By leveraging the power of LLMs and incorporating product and department information, this model provides personalized and relevant product suggestions to users.
 
 🌟 Key Features:
 
