@@ -1,6 +1,5 @@
 **🦙 LLaMA Product Recommender 🛍️**
-
-By leveraging the power of LLMs and incorporating product and department information, this model provides personalized and relevant product suggestions to users.
+The power of LLMs and incorporating product and department information, this model provides personalized and relevant product suggestions to users.
 
 🌟 Key Features:
 
